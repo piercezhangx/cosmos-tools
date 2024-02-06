@@ -1,0 +1,29 @@
+{
+  "name": "unicorn",
+  "version": "1.0.0",
+  "main": "1-queryDelegationRewards.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cosmjs/amino": "^0.27.1",
+    "@cosmjs/crypto": "^0.27.1",
+    "@cosmjs/encoding": "^0.27.1",
+    "@cosmjs/launchpad": "^0.27.1",
+    "@cosmjs/proto-signing": "^0.27.1",
+    "@cosmjs/stargate": "^0.27.1",
+    "@cosmjs/tendermint-rpc": "^0.27.1",
+    "cosmos-lib": "^1.1.0",
+    "@tendermint/amino-js": "^0.6.2",
+    "@terra-money/terra.js": "^3.0.9",
+    "axios": "^0.26.1",
+    "bip39": "^3.0.4",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.2.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
